@@ -1,0 +1,126 @@
+body, h1, p {
+margin: 0;
+padding: 0;
+}
+
+td.subdtl {
+border: 1px solid #dddddd;
+background-color: #BBBBBB;
+padding: 10px;
+text-align: center;
+}
+
+td.subct {
+border: 1px solid #dddddd;
+background-color: #EEEEEE;
+padding: 10px;
+text-align: left;
+}
+
+
+th.lsthead {
+border: 1px solid #dddddd;
+background-color: #FF0000;
+color: #FFFFFF;
+padding: 10px;
+text-align: center;
+vertical-align: top;
+width:18%
+}
+
+th.lstQRhead {
+border: 1px solid #dddddd;
+background-color: #FF0000;
+color: #FFFFFF;
+padding: 10px;
+text-align: center;
+vertical-align: top;
+width:10%
+}
+
+th.lstdetail {
+border: 1px solid #dddddd;
+background-color: #ffffff;
+padding: 10px;
+vertical-align: center;
+}
+
+th.lstdetailcenter {
+border: 1px solid #dddddd;
+background-color: #ffffff;
+text-align: center;
+vertical-align: center;
+}
+
+h1 {
+color: #ffffff;
+}
+
+h2 {
+color: #339933;
+}
+
+p {
+line-height: 2em;
+}
+
+p.hl {
+font-size: 1.25em;
+color: #ffffff;
+}
+
+header, div#main, nav, footer {
+padding: 8px;
+}
+
+header {
+background-color: #FFFFFF;
+}
+
+div#content {
+background-color: #99cc33;
+width: 100%;
+overflow: hidden;
+}
+
+div#main {
+background-color: #ffffff;
+width: 77%;
+float: right;
+}
+
+nav {
+color: #339933;
+background-color: #FFFFFF;
+width: 20%;
+float: left;
+}
+
+a:link {
+color: #222222;
+}
+
+a:visited {
+color: #FF8000;
+}
+
+a:hover {
+color: #FF8000;
+}
+
+a:active {
+color: #FF8000;
+}
+
+nav li {
+line-height: 2em;
+}
+
+a.tree {
+color: #222222;
+}
+
+footer {
+color: #ffffff;
+background-color: #333333;
+}
